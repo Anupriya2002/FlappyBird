@@ -104,4 +104,3 @@ public class FlappyBird implements ActionListener {
 }
 
 
-//START FROM 33:01
